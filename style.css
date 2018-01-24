@@ -1,7 +1,9 @@
 h1 { color: #C1FFA6;
     font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono
 }
-h2 { color: #C1FFA6; }
+h2 { color: #C1FFA6;
+    font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono
+}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
