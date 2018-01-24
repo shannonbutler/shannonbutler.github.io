@@ -9,7 +9,6 @@ ul.main-menu>li {
     display: inline;
 }
 .red {
-float: left;
 display: block;
 clear: both;
 margin-bottom: 10px;
