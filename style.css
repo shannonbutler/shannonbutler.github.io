@@ -1,4 +1,4 @@
-h1 { color: #2EB6CC; }
+h1 { color: ##DAF7A6; }
 h2 { color: #2ECC71; }
 ul.main-menu {
     list-style-type: none;
@@ -6,7 +6,7 @@ ul.main-menu {
     padding: 0;
 }
 ul.main-menu>li {
-    display: inline;
+    display: inline-block;
 }
 .teal {
 display: block;
