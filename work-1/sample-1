@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" type="text/css" href="/style.css">
+<head>
+  <title>Shannon Butler's Composing Digital Media Site</title>
+  </head>
+<body>
+  <h1><center>Shannon Butler's Composing Digital Media Site</center></h1>
+  <nav><center>
+    <ul class="main-menu">
+<li><div class="teal"><a href="/">Home</a></div></li>
+      <li><div class="teal"><a href="/work-1/">Work-in-Progress 1</a></div></li>
+      <li><div class="teal"><a href="/work-2/">Work-in-Progress 2</a></div></li>
+      <li><div class="teal"><a href="/skills/">Skills</a></div></li>
+      <li><div class="teal"><a href="/presentation/">Final Presentation</a></div></li>
+      <li><div class="teal"><a href="/portfolio/">Final Portfolio</a></div></li>
+    </ul>
+    </center>
+  </nav>
+  <main>
+    <h2><center>Sample 1</center></h2>
+    <p><center>I was leaving work late Friday night when I saw you. While walking to my mini-van, you caught my eye. You were illuminated by the neon light coming from the sign of the convenience store. I could not resist you, so I started my way over to the store. Right as I was about to approach you, someone got to you first. They took you and left the store before I even had the chance. If the person reading this happens to be the guy that took the last pot of yogurt from the convenience store across from the 99th precinct in Brooklyn, can I please have it? Terry loves yogurt. 
+    </center></p>
+  </main>
+  <footer><center>my footer</center></footer>
+</body>
+</html>
