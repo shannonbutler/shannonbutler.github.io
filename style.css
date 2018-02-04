@@ -27,8 +27,8 @@ body {
     text-decoration: none;
 }
 .navbar a:hover {
-    background: #ddd;
-    color: black;
+    background: #da7b93;
+    color: #2e151b;
 }
 .main {
     margin-top: 50px;
