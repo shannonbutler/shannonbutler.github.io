@@ -4,31 +4,6 @@ h1 { color: #DA7B93;
 h2 { color: #DA7B93;
     font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono
 }
-ul.main-menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-ul.main-menu>li {
-    display: inline-block;
-}
-.teal {
-display: block;
-clear: both;
-margin-bottom: 10px;
-padding: 14px 25px;
-font-size: 16px;
-color: #fff;
-background: #2E151B;
-}
-
-.teal a {
-color: #fff;
-}
-body {
-    background-color: #2F4454;
-    color: #FFF;
-}
 .navbar {
     overflow: hidden;
     background-color: #2E151B;
