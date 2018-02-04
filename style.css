@@ -29,3 +29,25 @@ body {
     background-color: #2F4454;
     color: #FFF;
 }
+.navbar {
+    overflow: hidden;
+    background-color: #2E151B;
+    position: fixed;
+    top: 0; 
+    width: 100%;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #da7b93;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+.main {
+    margin-top: 30px;
+}
