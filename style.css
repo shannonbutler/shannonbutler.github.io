@@ -1,12 +1,13 @@
 h1 { color: #DA7B93;
-    font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono
+    font-family: 'Shadows Into Light', cursive;
 }
 h2 { color: #DA7B93;
-    font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono
+    font-family: 'Shadows Into Light', cursive;
 }
 body {
     background-color: #2f4454;
     color: #fff;
+    font-family: 'Raleway', sans-serif;
 }
 
 .navbar {
