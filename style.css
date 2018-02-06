@@ -34,7 +34,7 @@ body {
     margin-top: 50px;
 }
 .pink {
-float: none;
+display: inline-block;
 clear: both;
 margin-bottom: 10px;
 padding: 14px 25px;
@@ -46,7 +46,6 @@ font-family: 'Amatic SC', cursive;
 .pink a {
     color: #da7b93;
     text-align: center;
-    display: inline-block;
 }
 .pink a:hover {
     background: #da7b93;
