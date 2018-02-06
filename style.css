@@ -34,7 +34,7 @@ body {
     margin-top: 50px;
 }
 .pink {
-float: left;
+float: none;
 display: block;
 clear: both;
 margin-bottom: 10px;
