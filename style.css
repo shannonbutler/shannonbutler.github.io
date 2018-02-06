@@ -33,3 +33,12 @@ body {
 .main {
     margin-top: 50px;
 }
+.pink {
+display: block;
+clear: both;
+margin-bottom: 10px;
+padding: 5px 10px;
+font-size: 16px;
+color: #fff;
+background: #2e151b;
+}
