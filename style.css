@@ -3,9 +3,8 @@ h1 { color: #DA7B93;
 }
 h2 { color: #DA7B93;
     font-family: 'Amatic SC', cursive;
-    border-bottom: 1px solid #2e151b;
+    border-bottom: 3px solid #2e151b;
     padding-bottom: 10px;
-    width: 90%;
 }
 body {
     background-color: #2f4454;
