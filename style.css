@@ -3,6 +3,7 @@ h1 { color: #DA7B93;
 }
 h2 { color: #DA7B93;
     font-family: 'Amatic SC', cursive;
+    border-bottom: 1px solid #2e151b;
 }
 body {
     background-color: #2f4454;
