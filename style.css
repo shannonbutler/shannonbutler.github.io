@@ -54,3 +54,17 @@ font-family: 'Amatic SC', cursive;
 .belowmenu {
     margin: 50px;
 }
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+    background-color: #2e151b;
+    color: #da7b93;
+    font-family: 'Amatic SC', cursive;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+tr:nth-child(even) {background-color: #3d5a70;}
