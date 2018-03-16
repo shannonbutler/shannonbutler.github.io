@@ -28,7 +28,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
 }
-.navbar a:hover .dropdown:hover .dropbtn {
+.navbar a:hover {
     background: #da7b93;
     color: #2e151b;
 }
