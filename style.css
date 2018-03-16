@@ -71,5 +71,5 @@ th, td {
 tr:nth-child(even) {background-color: #3d5a70;
 }
 .boxed {
-  border: 1px dotted #376e6f;
+  border: 4px dotted #376e6f;
 }
