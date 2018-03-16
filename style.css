@@ -72,4 +72,5 @@ tr:nth-child(even) {background-color: #3d5a70;
 }
 .boxed {
   border: 4px dotted #376e6f;
+  border-radius: 40px / 20px;
 }
