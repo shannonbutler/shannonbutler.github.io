@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" type="text/css" href="/style.css">
+<head>
+  <title>Shannon Butler's Composing Digital Media Site</title>
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Londrina+Outline" rel="stylesheet">
+  </head>
+<body>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+  <h1><div class="main"><center>Shannon Butler's Composing Digital Media Site</center></div></h1>
+   <nav>
+<div class="navbar">
+  <a href="/">Home</a>
+      <a href="/work-1/">Work-in-Progress 1</a>
+      <a href="/work-2/">Work-in-Progress 2</a>
+      <a href="/skills/">Skills</a>
+      <a href="/presentation/">Final Presentation</a>
+      <a href="/portfolio/">Final Portfolio</a>
+    </div>
+  </nav>
+  <main>
+    <h2><center>Skills Post One</center></h2>
+    <p><center><a href="/skills/" class="previous round">&#8249;</a><a href="/skills/progress" class="next round">&#8250;</a></center></p>
+    <p><center><div class="boxed">Most of the stuff i added on the list I did do, but there are some things I changed around. didn't watch the photography and design Lynda videos because after watching the first one, I realized that they were not igoing to help me in making the GIFs. I added some more youtube tutorials and Tmblr tutorials to make up for the lost hours, I also did a lot more hours of just general practice with no tutorials to try and drill the steps into my head.</div></center></p>
+    <ul>
+  <li>Learn the basics of Photoshop CC 2018 (Lynda.com video, 5 hours)</li>
+      <li>How to import video files and image sequences into Photoshop (30 minutes)
+        <ul>
+          <li><a href="https://helpx.adobe.com/photoshop/using/importing-video-files-image-sequences.html" style="color: #da7b93">Adobe Tutorial</a></li>
+        </ul>
+      </li>
+      <li>How to edit videos in Photoshop (2 hours)
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=XSZJX_F6HVI" style="color: #da7b93">Youtube Tutorial 1</a></li>
+          <li><a href="https://www.youtube.com/watch?v=s-dpnyRe5EU" style="color: #da7b93">Youtube Tutorial 2</a></li>
+          <li><a href="https://www.youtube.com/watch?v=JhiDxwKLXk0" style="color: #da7b93">Youtube Tutorial 3</a></li> 
+        </ul>
+      </li>
+      <li>How to create a frame animation in Photoshop/animation basics (1 hour)
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=DvPSdmGgEeM" style="color: #da7b93">Youtube Tutorial 1</a></li>
+          <li><a href="https://www.youtube.com/watch?v=l1-LN2NlB54" style="color: #da7b93">Youtube Tutorial 2</a></li>
+        </ul>
+      </li>
+      <li>How to make GIFs in Photoshop from a video (2 hours)
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=wgYF2iSrG6g" style="color: #da7b93">Youtube Tutorial</a></li>
+          <li><a href="https://graphicdesign.stackexchange.com/questions/46656/how-to-convert-a-video-file-into-an-animated-gif-in-photoshop" style="color: #da7b93">Stack Exchange Tutorial</a></li>
+        </ul>
+      </li>
+      <li>How to make GIFs in Photoshop from pictures (30 minutes)
+        <ul>
+          <li><a href="https://helpx.adobe.com/photoshop/how-to/make-animated-gif.html" style="color: #da7b93">Adobe Tutorial</a></li>
+        </ul>
+      </li>
+      <li>How to Sharpen a GIF (1 hour)
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=Sk-tRIX-oUg&t=593s">Youtube Tutorial</a></li>
+        <li><a href="http://yourphotoshop.tumblr.com/post/50524054488/how-to-sharpen-gifs-all-at-once-without-actions">Tumblr Tutorial</a></li>
+        </ul>
+        </li>
+        <li>How to size a GIF (30 minutes)
+          <ul>
+            <li><a href="http://kimwoobinseyebrows.tumblr.com/post/139232304438/use-these-sizes-for-gifs-edits-for-the-best">Tumblr Tutorial</a></li>
+            </ul>
+            </li>
+            <li>Adding text to GIFs (2 hours)
+            <ul>
+            <li><a href="http://pscs5.tumblr.com/post/57736741730">Tumblr Tutorial 1</a></li>
+            <li><a href="http://yourphotoshop.tumblr.com/post/53461332635/text-on-gif-tutorial">Tumblr Tutorial 2</a></li>
+      <li>How to animate a still photo in Photoshop (1 hour)
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=kw07wyP3qm4" style="color: #da7b93">Youtube Tutorial 1</a></li>
+          <li><a href="https://www.youtube.com/watch?v=oRKJLLYHCko" style="color: #da7b93">Youtube Tutorial 2</a></li>
+        </ul>
+      </li>
+      <li>How to save and export video and animations (30 minutes)
+        <ul>
+          <li><a href="https://helpx.adobe.com/photoshop/using/saving-exporting-video-animations.html" style="color: #da7b93">Adobe Tutorial</a></li>
+        </ul>
+      </li>
+    </ul>
+  </main>
+  <footer><center>Shannon Butler</center></footer>
+</body>
+</html>
