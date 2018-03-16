@@ -70,6 +70,7 @@ th, td {
 }
 tr:nth-child(even) {background-color: #3d5a70;
 }
+
 .boxed {
   border: 4px dotted #376e6f;
   border-radius: 40px / 20px;
@@ -77,4 +78,22 @@ tr:nth-child(even) {background-color: #3d5a70;
 }
 html {
     overflow-y:scroll;
+}
+a:hover {
+    background-color: #1c3334;
+    color: white;
+}
+
+.previous {
+    background-color: #376e6f;
+    color: white;
+}
+
+.next {
+    background-color: #376e6f;
+    color: white;
+}
+
+.round {
+    border-radius: 50%;
 }
