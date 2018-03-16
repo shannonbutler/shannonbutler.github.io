@@ -83,17 +83,17 @@ a {
 }
 
 a:hover {
-    background-color: #376e6f;
+    background-color: #1c3334;
     color: white;
 }
 
 .previous {
-    background-color: #104f51;
+    background-color: #376e6f;
     color: white;
 }
 
 .next {
-    background-color: #146063;
+    background-color: #376e6f;
     color: white;
 }
 
