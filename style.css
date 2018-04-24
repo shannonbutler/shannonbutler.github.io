@@ -104,16 +104,6 @@ a:hover {
 .gif {
     text-align: center;
 }
-.avatar {
-  display: inline-block;
-  position: relative;
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.avatar img {
-  width: auto;
-  height: 100%;
-  margin-left: -50px;
+img {
+    border-radius: 50%;
 }
