@@ -104,3 +104,6 @@ a:hover {
 .gif {
     text-align: center;
 }
+img {
+    border-radius: 50%;
+}
